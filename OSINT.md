@@ -17,7 +17,7 @@
 ## Facebook OSINT 工具
 
 [_intelligenceX](https://intelx.io/tools?tab=facebook)
-
+> 提供搜尋貼文等相關資料的功能，不過須先取得使用者ID
 
 ## Instagram OSINT 工具
 
