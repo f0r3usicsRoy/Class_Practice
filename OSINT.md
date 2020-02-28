@@ -14,6 +14,33 @@
 當有兩個條件以上時，中間記得要有1個空格作為區隔，搜尋引擎才能判別有多個搜尋條件，並進行搜尋
 
 
+## Facebook OSINT 工具
+
+[_intelligenceX](https://intelx.io/tools?tab=facebook)
+
+
+## Instagram OSINT 工具
+
+[Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id)
+> 可利用IG 的使用者名稱進行搜尋，找出相似使用者名稱的所有帳號
+
+[Helper Tools for Instagram v2](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail/related)
+> Chrome的擴充套件，需安裝於Chrome瀏覽器，提供多種功能，其中一項功能可以列出目標IG的所有好友清單
+
+[IG Stories for Instagram™](https://chrome.google.com/webstore/detail/ig-stories-for-instagram/nilbfjdbacfdodpbdondbbkmoigehodg)
+> 提供搜尋使用者或 hash tags等功能
+
+[Downloadgram](https://downloadgram.com/)
+> 提供IG圖片或影片的網址後，就可將IG上的圖片或影片下載下來
+
+
+## Other OSINT resource
+
+* [OSINT framework](https://osintframework.com/)
+
+* [OSINT tools set1](https://start.me/p/wMdQMQ/tools)
+
+* [OSINT tools set2](https://start.me/p/BnBb5v/jornadas-osint)
 
 
 
