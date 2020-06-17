@@ -1,5 +1,14 @@
 # OSINT resources and tools
 
+## fake user
+
+[fakenamegenerator](https://www.fakenamegenerator.com/)
+> 可隨機產生個人資料
+
+[thispersondoesnotexist](https://www.thispersondoesnotexist.com/)
+> AI 自動產生大頭貼
+
+
 ## Google Hacking
 
 * 雙引號
@@ -13,6 +22,18 @@
 
 當有兩個條件以上時，中間記得要有1個空格作為區隔，搜尋引擎才能判別有多個搜尋條件，並進行搜尋
 
+[Google 自訂搜尋引擎](https://cse.google.com/cse/all)
+> 使用者可自行調整搜尋範圍，減少不必要的搜尋結果
+
+
+## other tools
+
+[WaybackMachinne](https://archive.org/web/)
+> 可回溯查看網站的歷史畫面
+
+[Image Metadata Viewer](http://exif.regex.info/exif.cgi)
+> 可擷取照片的Metadata，查看經緯度等關鍵資訊
+
 
 ## Facebook OSINT 工具
 
@@ -22,6 +43,29 @@
 
 ## Twitter 工具
 
+[AllMyTweets](https://www.allmytweets.net/connect/)
+> 顯示目標所有的推特推文，但使用這項工具前，必須先登入自己的 Twitter 帳號
+
+[AccountAnalysis](https://accountanalysis.app/)
+> 快速取得目標帳號的活動型態相關資訊，但使用這項工具前，必須先登入自己的 Twitter 帳號
+
+[Botometer](https://botometer.iuni.iu.edu/#!/)
+> 快速驗證目標帳號是不是機器人(假人)，但使用這項工具前，必須先登入自己的 Twitter 帳號
+
+[doesfollow](https://doesfollow.com/)
+> 知道目標間是否有跟隨(follow)的狀況，但使用這項工具前，必須先登入自己的 Twitter 帳號
+
+[First Tweet](http://ctrlq.org/first/)
+> 找出關鍵字的第一則推文相關資訊
+
+[Socialbearing](https://socialbearing.com/)
+> 可以針對推文、時間軸、人物、跟隨者、好友及地理位置進行分析，使用這項工具時，需要登入自己的 Twitter 帳號
+
+[TweetDeck](https://tweetdeck.twitter.com/)
+> 可以列表追蹤目標，即時獲得最新消息，但需要登入 Twitter 授權使用。
+
+[TWDOWN](https://twdown.net/index.php)
+> 可以下載推文內的影片檔案
 
 ## Instagram OSINT 工具
 
