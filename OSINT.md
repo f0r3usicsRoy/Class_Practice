@@ -34,6 +34,11 @@
 [Image Metadata Viewer](http://exif.regex.info/exif.cgi)
 > 可擷取照片的Metadata，查看經緯度等關鍵資訊
 
+## PTT OSINT 工具
+
+[PTT Brain](https://www.pttbrain.com/)
+> 取得使用者ID後，就可搜尋相關活動紀錄，連同DCard也可以
+
 
 ## Facebook OSINT 工具
 
